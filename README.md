@@ -30,7 +30,7 @@ Antes de ejecutar esta aplicación, asegúrate de tener instalado lo siguiente:
 ## Instalación
 
 Paso 1:
-git clone https://github.com/tu-usuario/ExamenFrontEndPayNau.git
+git clone https://github.com/jmunozoutmulti/examen_backendpaynau.git
 
 Paso 2:
 Navega al directorio del backend:
