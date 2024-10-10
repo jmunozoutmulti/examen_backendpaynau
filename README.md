@@ -15,7 +15,6 @@ Antes de ejecutar esta aplicación, asegúrate de tener instalado lo siguiente:
 
 ## Estructura del Proyecto
 
-```plaintext
 /ExamenFrontEndPayNau
 ├── /backend               # Código del backend
 │   ├── /src               # Código fuente del backend
